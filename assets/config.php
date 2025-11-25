@@ -3,11 +3,11 @@
     //$server = "192.168.9.55";
 
     //$user = "root";
-    $user = "schoolv2";
+    $user = "livecoro_schoolv2";
     //$password = "";
     $password = "school@26v2";
     //$db = "smsdb";
-    $db = "schoolv2";
+    $db = "livecoro_schoolv2";
 
     $conn = mysqli_connect($server, $user, $password, $db);
 
